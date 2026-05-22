@@ -270,7 +270,7 @@ OR
 ## Step 1: Install Oracle Database
 
 Download Oracle Database21c.
-[text](https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html)
+https://www.oracle.com/database/technologies/appdev/jdbc-downloads.html
 
 ---
 
