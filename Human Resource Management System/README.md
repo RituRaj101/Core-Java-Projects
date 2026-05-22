@@ -1,4 +1,4 @@
-````markdown
+
 # 🏢 Human Resource Management System (HRMS)
 
 A console-based Human Resource Management System (HRMS) developed using Core Java.  
@@ -354,8 +354,3 @@ Run As → Java Application
 - Basic understanding of Java execution
 
 ---
-
-
-
-
-````
